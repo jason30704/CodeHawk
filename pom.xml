@@ -18,6 +18,11 @@
 
 		<sonar.version>7.7</sonar.version>
 		<sonarjava.version>5.12.1.17771</sonarjava.version>
+		
+		<sonar.projectKey>jason30704_CodeHawk</sonar.projectKey>
+  		<sonar.organization>codehawk</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>37102c1f651118f34e510780e7b69d032fbe64fc</sonar.login>
 	</properties>
 
 	<dependencies>
